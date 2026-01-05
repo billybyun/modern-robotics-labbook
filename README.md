@@ -1,6 +1,6 @@
 # modern-robotics-labbook
 
-Intuition-first Modern Robotics labbook with visualizations and self-quizzes for basic robot control: rotations, transformatoins, SO(3)/SE(3), twists, kinematics, Jacobians, and IK.
+Own interpretations, visualizations, and self-quizzes for basic robot control: rotations, transformations, SO(3)/SE(3), twists, kinematics, Jacobians, and IK. *(Following the **Modern Robotics** textbook by Kevin M. Lynch & Frank C. Park.)*
 
 ## What this is
 This repo is my continuous learning labbook for **Modern Robotics (Lynch & Park)**.  
