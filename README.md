@@ -1,6 +1,6 @@
 # modern-robotics-labbook
 
-Own interpretations, visualizations, and self-quizzes for basic robot control: rotations, transformations, SO(3)/SE(3), twists, kinematics, Jacobians, and IK. *(Following the **Modern Robotics** textbook by Kevin M. Lynch & Frank C. Park.)*
+Own interpretations, visualizations, and self-quizzes for basic robot control: rotations, transformations, SO(3)/SE(3), twists, kinematics, Jacobians, and IK. *(Following the structure of **Modern Robotics** textbook by Kevin M. Lynch & Frank C. Park: https://modernrobotics.northwestern.edu/))*
 
 ## What this is
 This repo is my continuous learning labbook for **Modern Robotics (Lynch & Park)**.  
