@@ -7,7 +7,6 @@ It follows structure of **[Modern Robotics (Lynch & Park)](https://modernrobotic
 For each lecture/chapter, the following are included:
 
 - **Own interpretations** of the concepts (WHY-first)
-- **Self-quizzes** (in my own words) to test understanding
 - **Visualizations** to build geometric intuition  
 
 Shared in case it would be helpful for other people as well.
